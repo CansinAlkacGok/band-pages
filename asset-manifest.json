@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/band-pages/static/css/main.c1c4a463.css",
-    "main.js": "/band-pages/static/js/main.0790e361.js",
+    "main.js": "/band-pages/static/js/main.4da182e5.js",
     "static/js/787.c553746d.chunk.js": "/band-pages/static/js/787.c553746d.chunk.js",
     "static/media/home.png": "/band-pages/static/media/home.ab068a9f37646d5d8fee.png",
     "static/media/bass.png": "/band-pages/static/media/bass.0911145d71c78c555853.png",
@@ -10,11 +10,11 @@
     "static/media/guitars.jpg": "/band-pages/static/media/guitars.109afcab243337332dc1.jpg",
     "index.html": "/band-pages/index.html",
     "main.c1c4a463.css.map": "/band-pages/static/css/main.c1c4a463.css.map",
-    "main.0790e361.js.map": "/band-pages/static/js/main.0790e361.js.map",
+    "main.4da182e5.js.map": "/band-pages/static/js/main.4da182e5.js.map",
     "787.c553746d.chunk.js.map": "/band-pages/static/js/787.c553746d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c4a463.css",
-    "static/js/main.0790e361.js"
+    "static/js/main.4da182e5.js"
   ]
 }
